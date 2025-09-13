@@ -12,7 +12,7 @@ EQuake 是一款基于易语言（底层: C / C++）开发的轻量级中国、�
 ## 数据来源
 * 日本气象厅地震速报：[Wolfx Open API](https://wolfx.jp/apidoc)、[Project BS](https://telegram-cf.projectbs.cn/zh-CN)
 * 日本气象厅地震速报、地震情报、海啸情报：[Project DM-D.S.S](https://dmdata.jp/)
-* 中国地震预警：中国预警网、[Wolfx Open API](https://wolfx.jp/apidoc)
+* 中国地震预警：[中国预警网](https://www.cea.gov.cn/)、[Wolfx Open API](https://wolfx.jp/apidoc)
 * 中国地震情报：[福建地震局](https://www.fjdzj.gov.cn/)
 * 实时震度地图、地震速报：[NIED](https://www.bosai.go.jp/e/index.html)
 * 地震情报：[Narikakun API](https://dev.narikakun.net/)、[CENC](https://www.cenc.ac.cn/)、[CWA](https://www.cwa.gov.tw/V8/C/)、[USGS](https://www.usgs.gov/)、[HKO](https://www.hko.gov.hk/sc/index.html)
