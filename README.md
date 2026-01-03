@@ -1,6 +1,10 @@
 # EQuake
-> [!Warning]
+> [!WARNING]
 > 软件目前仍在测试阶段，无法保证稳定性与可用性。
+
+> [!NOTE]
+> **安全提示**：由于使用易语言开发，本软件可能被误报为病毒。这是此类程序的普遍现象，我们承诺官方版本绝对安全，且360安全软件已确认解除误报。请您在使用时将本软件添加至杀毒软件的信任名单。如有疑虑，请联系我们（QQ群：1053492801 / 邮箱：3853402470@qq.com）。
+
 ## 简介
 EQuake 是一款基于易语言（底层: C / C++）开发的轻量级中国、日本实时地震观测软件。
 
@@ -15,7 +19,7 @@ EQuake 是一款基于易语言（底层: C / C++）开发的轻量级中国、�
 * 中国地震预警：[中国预警网](https://www.cea.gov.cn/)、[FAN Studio API](https://api.fanstudio.tech/)、[Wolfx Open API](https://wolfx.jp/apidoc)
 * 中国地震情报：[福建地震局](https://www.fjdzj.gov.cn/)
 * 实时震度地图、地震速报：[NIED](https://www.bosai.go.jp/e/index.html)
-* 地震情报：[Narikakun API](https://dev.narikakun.net/)、[CENC](https://www.cenc.ac.cn/)、[CWA](https://www.cwa.gov.tw/V8/C/)、[USGS](https://www.usgs.gov/)、[EMSC](https://www.emsc-csem.org/)、[HKO](https://www.hko.gov.hk/sc/index.html)
+* 地震情报：[Narikakun API](https://dev.narikakun.net/)、[CENC](https://www.cenc.ac.cn/)、[CWA](https://www.cwa.gov.tw/V8/C/)、[USGS](https://www.usgs.gov/)、[EMSC](https://www.emsc-csem.org/)、[HKO](https://www.hko.gov.hk/sc/index.html)、[FAN Studio Seismic Network](https://fssn.fanstudio.tech/)
 * 海啸情报：[P2PQuake API](https://www.p2pquake.net/develop/json_api_v2/)、[JMA 防灾情报](https://www.jma.go.jp/jma/menu/menuflash.html)
 * 活跃台风情报：[中央气象台](https://www.nmc.cn/publish/typhoon/typhoon_new.html)
 * 活跃火山情报：[日本气象厅](https://www.jma.go.jp/bosai/map.html#contents=volcano)
